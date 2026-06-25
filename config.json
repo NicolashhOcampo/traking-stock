@@ -1,0 +1,20 @@
+{
+  "telegram_chat_id": "-5422440858",
+  "check_interval_seconds": 180,
+  "products": [
+    {
+      "name": "Combo Album + 25 Sobres (Zonakids)",
+      "url": "https://zonakids.com/combo-1-album-25-sobres-de-figuritas-fifa-world-cup-2026"
+    },
+    {
+      "name": "Figuritas Panini Copa Mundial Fifa 2026 - 25 Sobres Oficial World Cup 2026 Mundial 2026",
+      "url": "https://meli.la/1Ae8gNE",
+      "is_list": true
+    },
+    {
+      "name": "Box 50 Sobres Panini Mundial Fifa World Cup 2026 Oficial Copa Mundial Fifa 2026",
+      "url": "https://meli.la/1Ae8gNE",
+      "is_list": true
+    }
+  ]
+}

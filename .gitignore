@@ -1,0 +1,25 @@
+# Entorno Virtual
+.venv/
+venv/
+env/
+ENV/
+
+# Archivos de configuración con secretos
+.env
+
+# Python Cache y temporales
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs y Editores
+.vscode/
+.idea/
+.project
+.pydevproject
+.settings/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
